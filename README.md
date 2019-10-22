@@ -25,17 +25,3 @@ pip3 install -r requirements.txt
 python3 index.py
 ```
 
-
-Inside `./index.py` there's a sample code:
-
-```python
-# the package
-import structure
-
-# using class
-g1 = structure.greeter()
-g1.greet()
-
-# using module method
-structure.hi()
-```
