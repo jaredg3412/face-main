@@ -68,3 +68,6 @@ target/
 
 # pyenv
 .python-version
+
+# vim
+*.swp
