@@ -71,3 +71,6 @@ target/
 
 # vim
 *.swp
+
+# JetBrains
+.idea/
