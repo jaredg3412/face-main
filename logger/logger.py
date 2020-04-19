@@ -36,7 +36,7 @@ def _send(data: dict) -> requests.Response:
     """Raw HTTP Post request to the logging API Endpoint.
     For internal use only. Don't call this func directly.
     :param data: the body of the request
-    :return: None
+    :return: requests.Response
     """
     res = None
     try:
