@@ -1,0 +1,4 @@
+[submodule "camera_detection"]
+	path = camera_detection
+	url = https://github.com/aakashvarshney23/camera_detection.git
+	branch = master
